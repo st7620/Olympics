@@ -82,10 +82,9 @@ def acf_pacf_plot(input_df, input_country):
     # Filter the data
     df_country = input_df.loc[input_df['Country'] == input_country]
     reduced_df = df_country[['Year', 'total']]
-    year_dt = pd.to_datetime(reduced_df["Year"])
-    reduced_df.drop(columns=["Year"], inplace=True)
-    reduced_df = reduced_df.join(year_dt)
+    reduced_df["Year"] = pd.to_datetime(reduced_df["Year"])
     reduced_df = reduced_df.set_index('Year')
+
 
     fig, ax = plt.subplots(2,1, figsize=(12,8))
     plot_acf(reduced_df)
