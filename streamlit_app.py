@@ -34,6 +34,7 @@ def make_time_series(input_df, input_country):
     # Filter the data
     df_country = input_df.loc[input_df['Country'] == input_country]
     reduced_df = df_country[['Year', 'total']]
+    reduced_df = reduced_df.sort_values(by="total", ascending=False)
     
     # Create the chart
     chart = px.line(reduced_df, x='Year', y='total', title=f"{input_country}'s Total Medals Over Time")
