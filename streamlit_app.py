@@ -81,10 +81,9 @@ def bar_chart_predictions(input_df):
 def acf_pacf_plot(input_df, input_country):
     # Filter the data
     df_country = input_df.loc[input_df['Country'] == input_country]
-    reduced_df = df_country[['Year', 'total']]
+    reduced_df = df_country.loc[df_country['Year', 'total']].copy()
     reduced_df["Year"] = pd.to_datetime(reduced_df["Year"])
     reduced_df = reduced_df.set_index('Year')
-
 
     fig, ax = plt.subplots(2,1, figsize=(12,8))
     plot_acf(reduced_df)
