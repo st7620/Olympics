@@ -1,0 +1,2281 @@
+Country,Year,GDP_share
+Afghanistan,1980,0.0
+Afghanistan,1984,0.0
+Afghanistan,1988,0.0
+Afghanistan,1992,0.0
+Afghanistan,1996,0.0
+Afghanistan,2000,0.0
+Afghanistan,2004,0.035
+Afghanistan,2008,0.041
+Afghanistan,2012,0.059
+Afghanistan,2016,0.06
+Afghanistan,2020,0.06
+Afghanistan,2024,0.0
+Albania,1980,0.043
+Albania,1984,0.044
+Albania,1988,0.038
+Albania,1992,0.021
+Albania,1996,0.026
+Albania,2000,0.026
+Albania,2004,0.029
+Albania,2008,0.031
+Albania,2012,0.03
+Albania,2016,0.03
+Albania,2020,0.03
+Albania,2024,0.032
+Algeria,1980,0.726
+Algeria,1984,0.807
+Algeria,1988,0.713
+Algeria,1992,0.616
+Algeria,1996,0.57
+Algeria,2000,0.559
+Algeria,2004,0.586
+Algeria,2008,0.562
+Algeria,2012,0.535
+Algeria,2016,0.457
+Algeria,2020,0.416
+Algeria,2024,0.414
+Andorra,1980,0.0
+Andorra,1984,0.0
+Andorra,1988,0.0
+Andorra,1992,0.0
+Andorra,1996,0.0
+Andorra,2000,0.004
+Andorra,2004,0.005
+Andorra,2008,0.004
+Andorra,2012,0.004
+Andorra,2016,0.003
+Andorra,2020,0.003
+Andorra,2024,0.003
+Angola,1980,0.081
+Angola,1984,0.078
+Angola,1988,0.079
+Angola,1992,0.078
+Angola,1996,0.104
+Angola,2000,0.106
+Angola,2004,0.124
+Angola,2008,0.169
+Angola,2012,0.184
+Angola,2016,0.176
+Angola,2020,0.159
+Angola,2024,0.146
+Antigua and Barbuda,1980,0.002
+Antigua and Barbuda,1984,0.002
+Antigua and Barbuda,1988,0.003
+Antigua and Barbuda,1992,0.002
+Antigua and Barbuda,1996,0.002
+Antigua and Barbuda,2000,0.003
+Antigua and Barbuda,2004,0.002
+Antigua and Barbuda,2008,0.003
+Antigua and Barbuda,2012,0.002
+Antigua and Barbuda,2016,0.002
+Antigua and Barbuda,2020,0.001
+Antigua and Barbuda,2024,0.002
+Argentina,1980,1.286
+Argentina,1984,1.133
+Argentina,1988,0.977
+Argentina,1992,0.89
+Argentina,1996,0.908
+Argentina,2000,0.842
+Argentina,2004,0.738
+Argentina,2008,0.825
+Argentina,2012,0.812
+Argentina,2016,0.76
+Argentina,2020,0.705
+Argentina,2024,0.67
+Armenia,1980,0.0
+Armenia,1984,0.0
+Armenia,1988,0.0
+Armenia,1992,0.017
+Armenia,1996,0.015
+Armenia,2000,0.016
+Armenia,2004,0.022
+Armenia,2008,0.029
+Armenia,2012,0.027
+Armenia,2016,0.027
+Armenia,2020,0.03
+Armenia,2024,0.035
+Aruba,1980,0.0
+Aruba,1984,0.0
+Aruba,1988,0.005
+Aruba,1992,0.005
+Aruba,1996,0.005
+Aruba,2000,0.005
+Aruba,2004,0.005
+Aruba,2008,0.005
+Aruba,2012,0.004
+Aruba,2016,0.003
+Aruba,2020,0.002
+Aruba,2024,0.003
+Australia,1980,1.157
+Australia,1984,1.164
+Australia,1988,1.183
+Australia,1992,1.04
+Australia,1996,1.073
+Australia,2000,1.092
+Australia,2004,1.085
+Australia,2008,1.028
+Australia,2012,0.975
+Australia,2016,1.006
+Australia,2020,0.994
+Australia,2024,0.965
+Austria,1980,0.631
+Austria,1984,0.605
+Austria,1988,0.559
+Austria,1992,0.521
+Austria,1996,0.499
+Austria,2000,0.487
+Austria,2004,0.451
+Austria,2008,0.42
+Austria,2012,0.388
+Austria,2016,0.395
+Austria,2020,0.367
+Austria,2024,0.342
+Azerbaijan,1980,0.0
+Azerbaijan,1984,0.0
+Azerbaijan,1988,0.0
+Azerbaijan,1992,0.098
+Azerbaijan,1996,0.048
+Azerbaijan,2000,0.056
+Azerbaijan,2004,0.068
+Azerbaijan,2008,0.134
+Azerbaijan,2012,0.147
+Azerbaijan,2016,0.12
+Azerbaijan,2020,0.109
+Azerbaijan,2024,0.107
+Bahrain,1980,0.055
+Bahrain,1984,0.061
+Bahrain,1988,0.054
+Bahrain,1992,0.051
+Bahrain,1996,0.053
+Bahrain,2000,0.055
+Bahrain,2004,0.058
+Bahrain,2008,0.063
+Bahrain,2012,0.065
+Bahrain,2016,0.055
+Bahrain,2020,0.056
+Bahrain,2024,0.055
+Bangladesh,1980,0.376
+Bangladesh,1984,0.407
+Bangladesh,1988,0.398
+Bangladesh,1992,0.387
+Bangladesh,1996,0.409
+Bangladesh,2000,0.428
+Bangladesh,2004,0.449
+Bangladesh,2008,0.482
+Bangladesh,2012,0.562
+Bangladesh,2016,0.663
+Bangladesh,2020,0.787
+Bangladesh,2024,0.872
+Barbados,1980,0.011
+Barbados,1984,0.01
+Barbados,1988,0.01
+Barbados,1992,0.007
+Barbados,1996,0.007
+Barbados,2000,0.007
+Barbados,2004,0.006
+Barbados,2008,0.006
+Barbados,2012,0.004
+Barbados,2016,0.004
+Barbados,2020,0.003
+Barbados,2024,0.003
+Belarus,1980,0.0
+Belarus,1984,0.0
+Belarus,1988,0.0
+Belarus,1992,0.152
+Belarus,1996,0.1
+Belarus,2000,0.114
+Belarus,2004,0.13
+Belarus,2008,0.157
+Belarus,2012,0.169
+Belarus,2016,0.145
+Belarus,2020,0.142
+Belarus,2024,0.126
+Belgium,1980,0.791
+Belgium,1984,0.744
+Belgium,1988,0.71
+Belgium,1992,0.638
+Belgium,1996,0.599
+Belgium,2000,0.587
+Belgium,2004,0.547
+Belgium,2008,0.501
+Belgium,2012,0.465
+Belgium,2016,0.473
+Belgium,2020,0.448
+Belgium,2024,0.433
+Belize,1980,0.002
+Belize,1984,0.002
+Belize,1988,0.003
+Belize,1992,0.003
+Belize,1996,0.003
+Belize,2000,0.004
+Belize,2004,0.004
+Belize,2008,0.004
+Belize,2012,0.003
+Belize,2016,0.003
+Belize,2020,0.002
+Belize,2024,0.003
+Benin,1980,0.027
+Benin,1984,0.025
+Benin,1988,0.023
+Benin,1992,0.021
+Benin,1996,0.023
+Benin,2000,0.024
+Benin,2004,0.025
+Benin,2008,0.024
+Benin,2012,0.024
+Benin,2016,0.028
+Benin,2020,0.032
+Benin,2024,0.035
+Bhutan,1980,0.002
+Bhutan,1984,0.002
+Bhutan,1988,0.003
+Bhutan,1992,0.003
+Bhutan,1996,0.003
+Bhutan,2000,0.003
+Bhutan,2004,0.004
+Bhutan,2008,0.005
+Bhutan,2012,0.006
+Bhutan,2016,0.007
+Bhutan,2020,0.007
+Bhutan,2024,0.007
+Bolivia,1980,0.08
+Bolivia,1984,0.067
+Bolivia,1988,0.058
+Bolivia,1992,0.055
+Bolivia,1996,0.058
+Bolivia,2000,0.057
+Bolivia,2004,0.055
+Bolivia,2008,0.056
+Bolivia,2012,0.061
+Bolivia,2016,0.071
+Bolivia,2020,0.072
+Bolivia,2024,0.071
+Bosnia and Herzegovina,1980,0.0
+Bosnia and Herzegovina,1984,0.0
+Bosnia and Herzegovina,1988,0.0
+Bosnia and Herzegovina,1992,0.0
+Bosnia and Herzegovina,1996,0.028
+Bosnia and Herzegovina,2000,0.039
+Bosnia and Herzegovina,2004,0.04
+Bosnia and Herzegovina,2008,0.041
+Bosnia and Herzegovina,2012,0.037
+Bosnia and Herzegovina,2016,0.038
+Bosnia and Herzegovina,2020,0.038
+Bosnia and Herzegovina,2024,0.038
+Botswana,1980,0.016
+Botswana,1984,0.021
+Botswana,1988,0.03
+Botswana,1992,0.03
+Botswana,1996,0.03
+Botswana,2000,0.031
+Botswana,2004,0.031
+Botswana,2008,0.032
+Botswana,2012,0.027
+Botswana,2016,0.031
+Botswana,2020,0.027
+Botswana,2024,0.029
+Brazil,1980,4.254
+Brazil,1984,3.796
+Brazil,1988,3.936
+Brazil,1992,3.189
+Brazil,1996,3.32
+Brazil,2000,3.115
+Brazil,2004,3.017
+Brazil,2008,3.022
+Brazil,2012,2.971
+Brazil,2016,2.523
+Brazil,2020,2.372
+Brazil,2024,2.302
+Brunei Darussalam,1980,0.0
+Brunei Darussalam,1984,0.0
+Brunei Darussalam,1988,0.056
+Brunei Darussalam,1992,0.049
+Brunei Darussalam,1996,0.049
+Brunei Darussalam,2000,0.044
+Brunei Darussalam,2004,0.042
+Brunei Darussalam,2008,0.036
+Brunei Darussalam,2012,0.035
+Brunei Darussalam,2016,0.02
+Brunei Darussalam,2020,0.021
+Brunei Darussalam,2024,0.018
+Bulgaria,1980,0.307
+Bulgaria,1984,0.332
+Bulgaria,1988,0.328
+Bulgaria,1992,0.197
+Bulgaria,1996,0.154
+Bulgaria,2000,0.113
+Bulgaria,2004,0.121
+Bulgaria,2008,0.131
+Bulgaria,2012,0.118
+Bulgaria,2016,0.123
+Bulgaria,2020,0.123
+Bulgaria,2024,0.123
+Burkina Faso,1980,0.019
+Burkina Faso,1984,0.018
+Burkina Faso,1988,0.02
+Burkina Faso,1992,0.018
+Burkina Faso,1996,0.02
+Burkina Faso,2000,0.021
+Burkina Faso,2004,0.023
+Burkina Faso,2008,0.024
+Burkina Faso,2012,0.027
+Burkina Faso,2016,0.03
+Burkina Faso,2020,0.035
+Burkina Faso,2024,0.036
+Burundi,1980,0.01
+Burundi,1984,0.01
+Burundi,1988,0.011
+Burundi,1992,0.01
+Burundi,1996,0.007
+Burundi,2000,0.006
+Burundi,2004,0.006
+Burundi,2008,0.006
+Burundi,2012,0.006
+Burundi,2016,0.007
+Burundi,2020,0.007
+Burundi,2024,0.007
+Cabo Verde,1980,0.002
+Cabo Verde,1984,0.002
+Cabo Verde,1988,0.002
+Cabo Verde,1992,0.002
+Cabo Verde,1996,0.002
+Cabo Verde,2000,0.003
+Cabo Verde,2004,0.003
+Cabo Verde,2008,0.004
+Cabo Verde,2012,0.003
+Cabo Verde,2016,0.003
+Cabo Verde,2020,0.003
+Cabo Verde,2024,0.003
+Cambodia,1980,0.0
+Cambodia,1984,0.0
+Cambodia,1988,0.024
+Cambodia,1992,0.024
+Cambodia,1996,0.027
+Cambodia,2000,0.031
+Cambodia,2004,0.037
+Cambodia,2008,0.046
+Cambodia,2012,0.053
+Cambodia,2016,0.066
+Cambodia,2020,0.074
+Cambodia,2024,0.077
+Cameroon,1980,0.083
+Cameroon,1984,0.109
+Cameroon,1988,0.098
+Cameroon,1992,0.069
+Cameroon,1996,0.062
+Cameroon,2000,0.064
+Cameroon,2004,0.067
+Cameroon,2008,0.063
+Cameroon,2012,0.063
+Cameroon,2016,0.072
+Cameroon,2020,0.077
+Cameroon,2024,0.076
+Canada,1980,2.152
+Canada,1984,2.137
+Canada,1988,2.136
+Canada,1992,1.763
+Canada,1996,1.747
+Canada,2000,1.804
+Canada,2004,1.722
+Canada,2008,1.574
+Canada,2012,1.455
+Canada,2016,1.441
+Canada,2020,1.393
+Canada,2024,1.331
+Central African Republic,1980,0.007
+Central African Republic,1984,0.008
+Central African Republic,1988,0.007
+Central African Republic,1992,0.006
+Central African Republic,1996,0.006
+Central African Republic,2000,0.005
+Central African Republic,2004,0.005
+Central African Republic,2008,0.005
+Central African Republic,2012,0.005
+Central African Republic,2016,0.003
+Central African Republic,2020,0.004
+Central African Republic,2024,0.003
+Chad,1980,0.019
+Chad,1984,0.019
+Chad,1988,0.021
+Chad,1992,0.021
+Chad,1996,0.019
+Chad,2000,0.018
+Chad,2004,0.029
+Chad,2008,0.029
+Chad,2012,0.029
+Chad,2016,0.028
+Chad,2020,0.028
+Chad,2024,0.026
+Chile,1980,0.289
+Chile,1984,0.249
+Chile,1988,0.263
+Chile,1992,0.295
+Chile,1996,0.334
+Chile,2000,0.337
+Chile,2004,0.348
+Chile,2008,0.357
+Chile,2012,0.371
+Chile,2016,0.353
+Chile,2020,0.338
+Chile,2024,0.335
+China,1980,2.258
+China,1984,3.011
+China,1988,3.976
+China,1992,4.368
+China,1996,6.068
+China,2000,7.201
+China,2004,8.937
+China,2008,11.764
+China,2012,14.998
+China,2016,16.053
+China,2020,18.069
+China,2024,19.007
+Colombia,1980,0.587
+Colombia,1984,0.58
+Colombia,1988,0.597
+Colombia,1992,0.56
+Colombia,1996,0.592
+Colombia,2000,0.523
+Colombia,2004,0.517
+Colombia,2008,0.532
+Colombia,2012,0.549
+Colombia,2016,0.577
+Colombia,2020,0.542
+Colombia,2024,0.561
+Comoros,1980,0.002
+Comoros,1984,0.003
+Comoros,1988,0.003
+Comoros,1992,0.002
+Comoros,1996,0.002
+Comoros,2000,0.002
+Comoros,2004,0.002
+Comoros,2008,0.002
+Comoros,2012,0.002
+Comoros,2016,0.002
+Comoros,2020,0.002
+Comoros,2024,0.002
+Costa Rica,1980,0.061
+Costa Rica,1984,0.056
+Costa Rica,1988,0.056
+Costa Rica,1992,0.055
+Costa Rica,1996,0.058
+Costa Rica,2000,0.061
+Costa Rica,2004,0.062
+Costa Rica,2008,0.065
+Costa Rica,2012,0.067
+Costa Rica,2016,0.078
+Costa Rica,2020,0.078
+Costa Rica,2024,0.082
+Croatia,1980,0.0
+Croatia,1984,0.0
+Croatia,1988,0.0
+Croatia,1992,0.117
+Croatia,1996,0.114
+Croatia,2000,0.11
+Croatia,2004,0.114
+Croatia,2008,0.112
+Croatia,2012,0.091
+Croatia,2016,0.091
+Croatia,2020,0.086
+Croatia,2024,0.094
+Cyprus,1980,0.022
+Cyprus,1984,0.026
+Cyprus,1988,0.028
+Cyprus,1992,0.029
+Cyprus,1996,0.03
+Cyprus,2000,0.032
+Cyprus,2004,0.032
+Cyprus,2008,0.032
+Cyprus,2012,0.027
+Cyprus,2016,0.026
+Cyprus,2020,0.028
+Cyprus,2024,0.029
+Czech Republic,1980,0.0
+Czech Republic,1984,0.0
+Czech Republic,1988,0.0
+Czech Republic,1992,0.0
+Czech Republic,1996,0.379
+Czech Republic,2000,0.342
+Czech Republic,2004,0.337
+Czech Republic,2008,0.348
+Czech Republic,2012,0.305
+Czech Republic,2016,0.327
+Czech Republic,2020,0.327
+Czech Republic,2024,0.297
+Côte d'Ivoire,1980,0.154
+Côte d'Ivoire,1984,0.139
+Côte d'Ivoire,1988,0.131
+Côte d'Ivoire,1992,0.108
+Côte d'Ivoire,1996,0.109
+Côte d'Ivoire,2000,0.104
+Côte d'Ivoire,2004,0.089
+Côte d'Ivoire,2008,0.08
+Côte d'Ivoire,2012,0.077
+Côte d'Ivoire,2016,0.098
+Côte d'Ivoire,2020,0.107
+Côte d'Ivoire,2024,0.118
+Democratic Republic of the Congo,1980,0.143
+Democratic Republic of the Congo,1984,0.14
+Democratic Republic of the Congo,1988,0.13
+Democratic Republic of the Congo,1992,0.08
+Democratic Republic of the Congo,1996,0.058
+Democratic Republic of the Congo,2000,0.039
+Democratic Republic of the Congo,2004,0.039
+Democratic Republic of the Congo,2008,0.044
+Democratic Republic of the Congo,2012,0.047
+Democratic Republic of the Congo,2016,0.068
+Democratic Republic of the Congo,2020,0.079
+Democratic Republic of the Congo,2024,0.086
+Denmark,1980,0.453
+Denmark,1984,0.455
+Denmark,1988,0.428
+Denmark,1992,0.368
+Denmark,1996,0.364
+Denmark,2000,0.354
+Denmark,2004,0.32
+Denmark,2008,0.286
+Denmark,2012,0.248
+Denmark,2016,0.256
+Denmark,2020,0.255
+Denmark,2024,0.249
+Djibouti,1980,0.0
+Djibouti,1984,0.0
+Djibouti,1988,0.0
+Djibouti,1992,0.005
+Djibouti,1996,0.004
+Djibouti,2000,0.003
+Djibouti,2004,0.003
+Djibouti,2008,0.003
+Djibouti,2012,0.003
+Djibouti,2016,0.004
+Djibouti,2020,0.004
+Djibouti,2024,0.004
+Dominica,1980,0.001
+Dominica,1984,0.001
+Dominica,1988,0.001
+Dominica,1992,0.001
+Dominica,1996,0.001
+Dominica,2000,0.001
+Dominica,2004,0.001
+Dominica,2008,0.001
+Dominica,2012,0.001
+Dominica,2016,0.001
+Dominica,2020,0.001
+Dominica,2024,0.001
+Dominican Republic,1980,0.102
+Dominican Republic,1984,0.105
+Dominican Republic,1988,0.103
+Dominican Republic,1992,0.093
+Dominican Republic,1996,0.101
+Dominican Republic,2000,0.113
+Dominican Republic,2004,0.106
+Dominican Republic,2008,0.117
+Dominican Republic,2012,0.117
+Dominican Republic,2016,0.144
+Dominican Republic,2020,0.145
+Dominican Republic,2024,0.158
+Ecuador,1980,0.191
+Ecuador,1984,0.185
+Ecuador,1988,0.178
+Ecuador,1992,0.163
+Ecuador,1996,0.16
+Ecuador,2000,0.143
+Ecuador,2004,0.149
+Ecuador,2008,0.149
+Ecuador,2012,0.158
+Ecuador,2016,0.153
+Ecuador,2020,0.141
+Ecuador,2024,0.144
+Egypt,1980,0.66
+Egypt,1984,0.777
+Egypt,1988,0.815
+Egypt,1992,0.717
+Egypt,1996,0.745
+Egypt,2000,0.818
+Egypt,2004,0.814
+Egypt,2008,0.873
+Egypt,2012,1.003
+Egypt,2016,0.959
+Egypt,2020,1.016
+Egypt,2024,1.022
+El Salvador,1980,0.075
+El Salvador,1984,0.062
+El Salvador,1988,0.057
+El Salvador,1992,0.053
+El Salvador,1996,0.055
+El Salvador,2000,0.052
+El Salvador,2004,0.047
+El Salvador,2008,0.044
+El Salvador,2012,0.04
+El Salvador,2016,0.044
+El Salvador,2020,0.041
+El Salvador,2024,0.043
+Equatorial Guinea,1980,0.001
+Equatorial Guinea,1984,0.001
+Equatorial Guinea,1988,0.001
+Equatorial Guinea,1992,0.001
+Equatorial Guinea,1996,0.002
+Equatorial Guinea,2000,0.012
+Equatorial Guinea,2004,0.03
+Equatorial Guinea,2008,0.039
+Equatorial Guinea,2012,0.038
+Equatorial Guinea,2016,0.021
+Equatorial Guinea,2020,0.019
+Equatorial Guinea,2024,0.016
+Eritrea,1980,0.0
+Eritrea,1984,0.0
+Eritrea,1988,0.0
+Eritrea,1992,0.005
+Eritrea,1996,0.007
+Eritrea,2000,0.006
+Eritrea,2004,0.005
+Eritrea,2008,0.004
+Eritrea,2012,0.005
+Eritrea,2016,0.005
+Eritrea,2020,0.0
+Eritrea,2024,0.0
+Estonia,1980,0.0
+Estonia,1984,0.0
+Estonia,1988,0.0
+Estonia,1992,0.0
+Estonia,1996,0.031
+Estonia,2000,0.034
+Estonia,2004,0.038
+Estonia,2008,0.039
+Estonia,2012,0.034
+Estonia,2016,0.035
+Estonia,2020,0.038
+Estonia,2024,0.033
+Eswatini,1980,0.008
+Eswatini,1984,0.008
+Eswatini,1988,0.009
+Eswatini,1992,0.01
+Eswatini,1996,0.01
+Eswatini,2000,0.009
+Eswatini,2004,0.009
+Eswatini,2008,0.009
+Eswatini,2012,0.009
+Eswatini,2016,0.008
+Eswatini,2020,0.008
+Eswatini,2024,0.008
+Ethiopia,1980,0.078
+Ethiopia,1984,0.076
+Ethiopia,1988,0.073
+Ethiopia,1992,0.051
+Ethiopia,1996,0.064
+Ethiopia,2000,0.063
+Ethiopia,2004,0.066
+Ethiopia,2008,0.086
+Ethiopia,2012,0.111
+Ethiopia,2016,0.167
+Ethiopia,2020,0.211
+Ethiopia,2024,0.232
+Fiji,1980,0.013
+Fiji,1984,0.013
+Fiji,1988,0.011
+Fiji,1992,0.011
+Fiji,1996,0.011
+Fiji,2000,0.01
+Fiji,2004,0.01
+Fiji,2008,0.008
+Fiji,2012,0.008
+Fiji,2016,0.009
+Fiji,2020,0.008
+Fiji,2024,0.009
+Finland,1980,0.34
+Finland,1984,0.344
+Finland,1988,0.343
+Finland,1992,0.268
+Finland,1996,0.265
+Finland,2000,0.282
+Finland,2004,0.271
+Finland,2008,0.257
+Finland,2012,0.219
+Finland,2016,0.212
+Finland,2020,0.207
+Finland,2024,0.183
+France,1980,4.31
+France,1984,4.186
+France,1988,4.023
+France,1992,3.613
+France,1996,3.367
+France,2000,3.308
+France,2004,3.066
+France,2008,2.746
+France,2012,2.451
+France,2016,2.458
+France,2020,2.267
+France,2024,2.148
+Gabon,1980,0.049
+Gabon,1984,0.048
+Gabon,1988,0.038
+Gabon,1992,0.038
+Gabon,1996,0.04
+Gabon,2000,0.033
+Gabon,2004,0.031
+Gabon,2008,0.027
+Gabon,2012,0.027
+Gabon,2016,0.025
+Gabon,2020,0.025
+Gabon,2024,0.024
+Georgia,1980,0.0
+Georgia,1984,0.0
+Georgia,1988,0.0
+Georgia,1992,0.0
+Georgia,1996,0.024
+Georgia,2000,0.025
+Georgia,2004,0.028
+Georgia,2008,0.033
+Georgia,2012,0.037
+Georgia,2016,0.042
+Georgia,2020,0.042
+Georgia,2024,0.051
+Germany,1980,6.378
+Germany,1984,6.034
+Germany,1988,5.717
+Germany,1992,5.477
+Germany,1996,5.03
+Germany,2000,4.722
+Germany,2004,4.173
+Germany,2008,3.799
+Germany,2012,3.455
+Germany,2016,3.575
+Germany,2020,3.415
+Germany,2024,3.063
+Ghana,1980,0.096
+Ghana,1984,0.079
+Ghana,1988,0.087
+Ghana,1992,0.084
+Ghana,1996,0.088
+Ghana,2000,0.092
+Ghana,2004,0.096
+Ghana,2008,0.102
+Ghana,2012,0.132
+Ghana,2016,0.122
+Ghana,2020,0.134
+Ghana,2024,0.13
+Greece,1980,0.628
+Greece,1984,0.562
+Greece,1988,0.508
+Greece,1992,0.446
+Greece,1996,0.416
+Greece,2000,0.417
+Greece,2004,0.435
+Greece,2008,0.398
+Greece,2012,0.273
+Greece,2016,0.254
+Greece,2020,0.227
+Greece,2024,0.232
+Grenada,1980,0.001
+Grenada,1984,0.001
+Grenada,1988,0.002
+Grenada,1992,0.001
+Grenada,1996,0.001
+Grenada,2000,0.002
+Grenada,2004,0.001
+Grenada,2008,0.001
+Grenada,2012,0.001
+Grenada,2016,0.001
+Grenada,2020,0.001
+Grenada,2024,0.001
+Guatemala,1980,0.143
+Guatemala,1984,0.124
+Guatemala,1988,0.114
+Guatemala,1992,0.108
+Guatemala,1996,0.109
+Guatemala,2000,0.109
+Guatemala,2004,0.107
+Guatemala,2008,0.107
+Guatemala,2012,0.106
+Guatemala,2016,0.112
+Guatemala,2020,0.112
+Guatemala,2024,0.115
+Guinea,1980,0.02
+Guinea,1984,0.02
+Guinea,1988,0.02
+Guinea,1992,0.019
+Guinea,1996,0.02
+Guinea,2000,0.02
+Guinea,2004,0.019
+Guinea,2008,0.019
+Guinea,2012,0.018
+Guinea,2016,0.021
+Guinea,2020,0.027
+Guinea,2024,0.028
+Guinea-Bissau,1980,0.003
+Guinea-Bissau,1984,0.003
+Guinea-Bissau,1988,0.003
+Guinea-Bissau,1992,0.003
+Guinea-Bissau,1996,0.003
+Guinea-Bissau,2000,0.002
+Guinea-Bissau,2004,0.002
+Guinea-Bissau,2008,0.002
+Guinea-Bissau,2012,0.002
+Guinea-Bissau,2016,0.003
+Guinea-Bissau,2020,0.003
+Guinea-Bissau,2024,0.003
+Guyana,1980,0.014
+Guyana,1984,0.011
+Guyana,1988,0.009
+Guyana,1992,0.007
+Guyana,1996,0.009
+Guyana,2000,0.008
+Guyana,2004,0.007
+Guyana,2008,0.007
+Guyana,2012,0.008
+Guyana,2016,0.007
+Guyana,2020,0.012
+Guyana,2024,0.034
+Haiti,1980,0.075
+Haiti,1984,0.066
+Haiti,1988,0.058
+Haiti,1992,0.046
+Haiti,1996,0.039
+Haiti,2000,0.036
+Haiti,2004,0.032
+Haiti,2008,0.031
+Haiti,2012,0.028
+Haiti,2016,0.029
+Haiti,2020,0.026
+Haiti,2024,0.021
+Honduras,1980,0.038
+Honduras,1984,0.036
+Honduras,1988,0.037
+Honduras,1992,0.033
+Honduras,1996,0.034
+Honduras,2000,0.034
+Honduras,2004,0.034
+Honduras,2008,0.036
+Honduras,2012,0.035
+Honduras,2016,0.041
+Honduras,2020,0.04
+Honduras,2024,0.043
+Hong Kong SAR,1980,0.269
+Hong Kong SAR,1984,0.322
+Hong Kong SAR,1988,0.381
+Hong Kong SAR,1992,0.37
+Hong Kong SAR,1996,0.393
+Hong Kong SAR,2000,0.37
+Hong Kong SAR,2004,0.368
+Hong Kong SAR,2008,0.385
+Hong Kong SAR,2012,0.37
+Hong Kong SAR,2016,0.36
+Hong Kong SAR,2020,0.33
+Hong Kong SAR,2024,0.307
+Hungary,1980,0.505
+Hungary,1984,0.504
+Hungary,1988,0.457
+Hungary,1992,0.309
+Hungary,1996,0.287
+Hungary,2000,0.286
+Hungary,2004,0.295
+Hungary,2008,0.271
+Hungary,2012,0.229
+Hungary,2016,0.235
+Hungary,2020,0.243
+Hungary,2024,0.236
+Iceland,1980,0.018
+Iceland,1984,0.018
+Iceland,1988,0.019
+Iceland,1992,0.015
+Iceland,1996,0.015
+Iceland,2000,0.016
+Iceland,2004,0.015
+Iceland,2008,0.016
+Iceland,2012,0.013
+Iceland,2016,0.015
+Iceland,2020,0.015
+Iceland,2024,0.016
+India,1980,3.022
+India,1984,3.368
+India,1988,3.641
+India,1992,3.536
+India,1996,4.044
+India,2000,4.354
+India,2004,4.78
+India,2008,5.182
+India,2012,6.097
+India,2016,6.64
+India,2020,6.801
+India,2024,7.86
+Indonesia,1980,1.415
+Indonesia,1984,1.591
+Indonesia,1988,1.738
+Indonesia,1992,1.954
+Indonesia,1996,2.341
+Indonesia,2000,1.943
+Indonesia,2004,2.007
+Indonesia,2008,2.142
+Indonesia,2012,2.391
+Indonesia,2016,2.356
+Indonesia,2020,2.469
+Indonesia,2024,2.542
+"International Monetary Fund, World Economic Outlook Database, April 2024",1980,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",1984,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",1988,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",1992,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",1996,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",2000,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",2004,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",2008,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",2012,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",2016,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",2020,0.0
+"International Monetary Fund, World Economic Outlook Database, April 2024",2024,0.0
+Iraq,1980,0.0
+Iraq,1984,0.0
+Iraq,1988,0.0
+Iraq,1992,0.0
+Iraq,1996,0.0
+Iraq,2000,0.193
+Iraq,2004,0.402
+Iraq,2008,0.399
+Iraq,2012,0.479
+Iraq,2016,0.298
+Iraq,2020,0.31
+Iraq,2024,0.286
+Ireland,1980,0.188
+Ireland,1984,0.183
+Ireland,1988,0.172
+Ireland,1992,0.168
+Ireland,1996,0.192
+Ireland,2000,0.242
+Ireland,2004,0.257
+Ireland,2008,0.24
+Ireland,2012,0.211
+Ireland,2016,0.291
+Ireland,2020,0.362
+Ireland,2024,0.383
+Islamic Republic of Iran,1980,1.685
+Islamic Republic of Iran,1984,1.841
+Islamic Republic of Iran,1988,1.365
+Islamic Republic of Iran,1992,1.561
+Islamic Republic of Iran,1996,1.457
+Islamic Republic of Iran,2000,1.403
+Islamic Republic of Iran,2004,1.525
+Islamic Republic of Iran,2008,1.501
+Islamic Republic of Iran,2012,1.284
+Islamic Republic of Iran,2016,1.048
+Islamic Republic of Iran,2020,0.993
+Islamic Republic of Iran,2024,0.999
+Israel,1980,0.212
+Israel,1984,0.216
+Israel,1988,0.223
+Israel,1992,0.221
+Israel,1996,0.252
+Israel,2000,0.263
+Israel,2004,0.242
+Israel,2008,0.244
+Israel,2012,0.254
+Israel,2016,0.279
+Israel,2020,0.288
+Israel,2024,0.297
+Italy,1980,4.581
+Italy,1984,4.328
+Italy,1988,4.232
+Italy,1992,3.721
+Italy,1996,3.472
+Italy,2000,3.274
+Italy,2004,2.945
+Italy,2008,2.544
+Italy,2012,2.152
+Italy,2016,2.078
+Italy,2020,1.841
+Italy,2024,1.803
+Jamaica,1980,0.046
+Jamaica,1984,0.047
+Jamaica,1988,0.045
+Jamaica,1992,0.041
+Jamaica,1996,0.039
+Jamaica,2000,0.033
+Jamaica,2004,0.031
+Jamaica,2008,0.027
+Jamaica,2012,0.023
+Jamaica,2016,0.023
+Jamaica,2020,0.02
+Jamaica,2024,0.02
+Japan,1980,7.951
+Japan,1984,8.45
+Japan,1988,8.812
+Japan,1992,8.249
+Japan,1996,7.773
+Japan,2000,6.844
+Japan,2004,6.181
+Japan,2008,5.355
+Japan,2012,4.756
+Japan,2016,4.429
+Japan,2020,3.977
+Japan,2024,3.62
+Jordan,1980,0.064
+Jordan,1984,0.075
+Jordan,1988,0.072
+Jordan,1992,0.057
+Jordan,1996,0.059
+Jordan,2000,0.059
+Jordan,2004,0.064
+Jordan,2008,0.074
+Jordan,2012,0.074
+Jordan,2016,0.077
+Jordan,2020,0.08
+Jordan,2024,0.076
+Kazakhstan,1980,0.0
+Kazakhstan,1984,0.0
+Kazakhstan,1988,0.0
+Kazakhstan,1992,0.36
+Kazakhstan,1996,0.233
+Kazakhstan,2000,0.226
+Kazakhstan,2004,0.293
+Kazakhstan,2008,0.335
+Kazakhstan,2012,0.367
+Kazakhstan,2016,0.364
+Kazakhstan,2020,0.375
+Kazakhstan,2024,0.373
+Kenya,1980,0.131
+Kenya,1984,0.135
+Kenya,1988,0.145
+Kenya,1992,0.129
+Kenya,1996,0.127
+Kenya,2000,0.116
+Kenya,2004,0.113
+Kenya,2008,0.114
+Kenya,2012,0.124
+Kenya,2016,0.166
+Kenya,2020,0.184
+Kenya,2024,0.197
+Korea,1980,0.617
+Korea,1984,0.819
+Korea,1988,1.068
+Korea,1992,1.204
+Korea,1996,1.471
+Korea,2000,1.554
+Korea,2004,1.65
+Korea,2008,1.654
+Korea,2012,1.669
+Korea,2016,1.74
+Korea,2020,1.735
+Korea,2024,1.647
+Kosovo,1980,0.0
+Kosovo,1984,0.0
+Kosovo,1988,0.0
+Kosovo,1992,0.0
+Kosovo,1996,0.0
+Kosovo,2000,0.015
+Kosovo,2004,0.014
+Kosovo,2008,0.014
+Kosovo,2012,0.014
+Kosovo,2016,0.015
+Kosovo,2020,0.015
+Kosovo,2024,0.016
+Kuwait,1980,0.0
+Kuwait,1984,0.254
+Kuwait,1988,0.221
+Kuwait,1992,0.181
+Kuwait,1996,0.24
+Kuwait,2000,0.226
+Kuwait,2004,0.261
+Kuwait,2008,0.283
+Kuwait,2012,0.274
+Kuwait,2016,0.152
+Kuwait,2020,0.16
+Kuwait,2024,0.142
+Kyrgyz Republic,1980,0.0
+Kyrgyz Republic,1984,0.0
+Kyrgyz Republic,1988,0.0
+Kyrgyz Republic,1992,0.027
+Kyrgyz Republic,1996,0.017
+Kyrgyz Republic,2000,0.018
+Kyrgyz Republic,2004,0.019
+Kyrgyz Republic,2008,0.019
+Kyrgyz Republic,2012,0.02
+Kyrgyz Republic,2016,0.024
+Kyrgyz Republic,2020,0.025
+Kyrgyz Republic,2024,0.026
+Lao P.D.R.,1980,0.013
+Lao P.D.R.,1984,0.016
+Lao P.D.R.,1988,0.015
+Lao P.D.R.,1992,0.016
+Lao P.D.R.,1996,0.018
+Lao P.D.R.,2000,0.02
+Lao P.D.R.,2004,0.022
+Lao P.D.R.,2008,0.024
+Lao P.D.R.,2012,0.031
+Lao P.D.R.,2016,0.04
+Lao P.D.R.,2020,0.044
+Lao P.D.R.,2024,0.042
+Latvia,1980,0.0
+Latvia,1984,0.0
+Latvia,1988,0.0
+Latvia,1992,0.048
+Latvia,1996,0.039
+Latvia,2000,0.042
+Latvia,2004,0.049
+Latvia,2008,0.054
+Latvia,2012,0.043
+Latvia,2016,0.045
+Latvia,2020,0.044
+Latvia,2024,0.042
+Lebanon,1980,0.122
+Lebanon,1984,0.126
+Lebanon,1988,0.105
+Lebanon,1992,0.062
+Lebanon,1996,0.07
+Lebanon,2000,0.069
+Lebanon,2004,0.071
+Lebanon,2008,0.072
+Lebanon,2012,0.081
+Lebanon,2016,0.089
+Lebanon,2020,0.058
+Lebanon,2024,0.0
+Lesotho,1980,0.004
+Lesotho,1984,0.005
+Lesotho,1988,0.005
+Lesotho,1992,0.005
+Lesotho,1996,0.005
+Lesotho,2000,0.005
+Lesotho,2004,0.005
+Lesotho,2008,0.005
+Lesotho,2012,0.005
+Lesotho,2016,0.005
+Lesotho,2020,0.004
+Lesotho,2024,0.004
+Liberia,1980,0.0
+Liberia,1984,0.0
+Liberia,1988,0.0
+Liberia,1992,0.0
+Liberia,1996,0.0
+Liberia,2000,0.005
+Liberia,2004,0.004
+Liberia,2008,0.004
+Liberia,2012,0.005
+Liberia,2016,0.005
+Liberia,2020,0.005
+Liberia,2024,0.006
+Libya,1980,0.73
+Libya,1984,0.472
+Libya,1988,0.332
+Libya,1992,0.34
+Libya,1996,0.253
+Libya,2000,0.219
+Libya,2004,0.23
+Libya,2008,0.227
+Libya,2012,0.171
+Libya,2016,0.118
+Libya,2020,0.082
+Libya,2024,0.099
+Lithuania,1980,0.0
+Lithuania,1984,0.0
+Lithuania,1988,0.0
+Lithuania,1992,0.0
+Lithuania,1996,0.065
+Lithuania,2000,0.067
+Lithuania,2004,0.078
+Lithuania,2008,0.086
+Lithuania,2012,0.073
+Lithuania,2016,0.076
+Lithuania,2020,0.082
+Lithuania,2024,0.078
+Luxembourg,1980,0.043
+Luxembourg,1984,0.043
+Luxembourg,1988,0.048
+Luxembourg,1992,0.05
+Luxembourg,1996,0.05
+Luxembourg,2000,0.057
+Luxembourg,2004,0.056
+Luxembourg,2008,0.055
+Luxembourg,2012,0.051
+Luxembourg,2016,0.057
+Luxembourg,2020,0.056
+Luxembourg,2024,0.052
+Macao SAR,1980,0.0
+Macao SAR,1984,0.0
+Macao SAR,1988,0.0
+Macao SAR,1992,0.0
+Macao SAR,1996,0.0
+Macao SAR,2000,0.0
+Macao SAR,2004,0.04
+Macao SAR,2008,0.049
+Macao SAR,2012,0.075
+Macao SAR,2016,0.06
+Macao SAR,2020,0.029
+Macao SAR,2024,0.05
+Madagascar,1980,0.066
+Madagascar,1984,0.055
+Madagascar,1988,0.051
+Madagascar,1992,0.042
+Madagascar,1996,0.04
+Madagascar,2000,0.04
+Madagascar,2004,0.037
+Madagascar,2008,0.039
+Madagascar,2012,0.034
+Madagascar,2016,0.034
+Madagascar,2020,0.032
+Madagascar,2024,0.033
+Malawi,1980,0.025
+Malawi,1984,0.024
+Malawi,1988,0.022
+Malawi,1992,0.02
+Malawi,1996,0.021
+Malawi,2000,0.021
+Malawi,2004,0.02
+Malawi,2008,0.021
+Malawi,2012,0.022
+Malawi,2016,0.022
+Malawi,2020,0.023
+Malawi,2024,0.022
+Malaysia,1980,0.346
+Malaysia,1984,0.409
+Malaysia,1988,0.409
+Malaysia,1992,0.472
+Malaysia,1996,0.606
+Malaysia,2000,0.599
+Malaysia,2004,0.621
+Malaysia,2008,0.642
+Malaysia,2012,0.671
+Malaysia,2016,0.673
+Malaysia,2020,0.677
+Malaysia,2024,0.703
+Maldives,1980,0.002
+Maldives,1984,0.003
+Maldives,1988,0.003
+Maldives,1992,0.003
+Maldives,1996,0.004
+Maldives,2000,0.005
+Maldives,2004,0.005
+Maldives,2008,0.005
+Maldives,2012,0.005
+Maldives,2016,0.007
+Maldives,2020,0.006
+Maldives,2024,0.008
+Mali,1980,0.029
+Mali,1984,0.023
+Mali,1988,0.023
+Mali,1992,0.024
+Mali,1996,0.025
+Mali,2000,0.024
+Mali,2004,0.028
+Mali,2008,0.028
+Mali,2012,0.028
+Mali,2016,0.034
+Mali,2020,0.036
+Mali,2024,0.035
+Malta,1980,0.014
+Malta,1984,0.013
+Malta,1988,0.014
+Malta,1992,0.014
+Malta,1996,0.015
+Malta,2000,0.015
+Malta,2004,0.014
+Malta,2008,0.013
+Malta,2012,0.013
+Malta,2016,0.016
+Malta,2020,0.017
+Malta,2024,0.02
+Mauritania,1980,0.0
+Mauritania,1984,0.0
+Mauritania,1988,0.0
+Mauritania,1992,0.018
+Mauritania,1996,0.019
+Mauritania,2000,0.016
+Mauritania,2004,0.016
+Mauritania,2008,0.017
+Mauritania,2012,0.016
+Mauritania,2016,0.017
+Mauritania,2020,0.019
+Mauritania,2024,0.019
+Mauritius,1980,0.015
+Mauritius,1984,0.016
+Mauritius,1988,0.019
+Mauritius,1992,0.019
+Mauritius,1996,0.02
+Mauritius,2000,0.022
+Mauritius,2004,0.022
+Mauritius,2008,0.021
+Mauritius,2012,0.021
+Mauritius,2016,0.023
+Mauritius,2020,0.02
+Mauritius,2024,0.022
+Mexico,1980,3.228
+Mexico,1984,3.185
+Mexico,1988,2.771
+Mexico,1992,2.651
+Mexico,1996,2.517
+Mexico,2000,2.667
+Mexico,2004,2.405
+Mexico,2008,2.221
+Mexico,2012,2.084
+Mexico,2016,2.11
+Mexico,2020,1.862
+Mexico,2024,1.85
+Moldova,1980,0.0
+Moldova,1984,0.0
+Moldova,1988,0.0
+Moldova,1992,0.039
+Moldova,1996,0.022
+Moldova,2000,0.018
+Moldova,2004,0.02
+Moldova,2008,0.021
+Moldova,2012,0.021
+Moldova,2016,0.026
+Moldova,2020,0.025
+Moldova,2024,0.024
+Mongolia,1980,0.022
+Mongolia,1984,0.026
+Mongolia,1988,0.029
+Mongolia,1992,0.02
+Mongolia,1996,0.019
+Mongolia,2000,0.018
+Mongolia,2004,0.02
+Mongolia,2008,0.023
+Mongolia,2012,0.029
+Mongolia,2016,0.028
+Mongolia,2020,0.03
+Mongolia,2024,0.032
+Montenegro,1980,0.0
+Montenegro,1984,0.0
+Montenegro,1988,0.0
+Montenegro,1992,0.0
+Montenegro,1996,0.0
+Montenegro,2000,0.01
+Montenegro,2004,0.009
+Montenegro,2008,0.01
+Montenegro,2012,0.009
+Montenegro,2016,0.01
+Montenegro,2020,0.009
+Montenegro,2024,0.01
+Morocco,1980,0.236
+Morocco,1984,0.238
+Morocco,1988,0.254
+Morocco,1992,0.23
+Morocco,1996,0.238
+Morocco,2000,0.222
+Morocco,2004,0.238
+Morocco,2008,0.241
+Morocco,2012,0.242
+Morocco,2016,0.235
+Morocco,2020,0.222
+Morocco,2024,0.22
+Mozambique,1980,0.019
+Mozambique,1984,0.013
+Mozambique,1988,0.014
+Mozambique,1992,0.012
+Mozambique,1996,0.014
+Mozambique,2000,0.017
+Mozambique,2004,0.021
+Mozambique,2008,0.024
+Mozambique,2012,0.026
+Mozambique,2016,0.033
+Mozambique,2020,0.03
+Mozambique,2024,0.031
+Myanmar,1980,0.0
+Myanmar,1984,0.0
+Myanmar,1988,0.0
+Myanmar,1992,0.0
+Myanmar,1996,0.0
+Myanmar,2000,0.082
+Myanmar,2004,0.115
+Myanmar,2008,0.15
+Myanmar,2012,0.171
+Myanmar,2016,0.184
+Myanmar,2020,0.2
+Myanmar,2024,0.153
+Namibia,1980,0.0
+Namibia,1984,0.0
+Namibia,1988,0.0
+Namibia,1992,0.02
+Namibia,1996,0.019
+Namibia,2000,0.019
+Namibia,2004,0.02
+Namibia,2008,0.019
+Namibia,2012,0.02
+Namibia,2016,0.021
+Namibia,2020,0.018
+Namibia,2024,0.017
+Nepal,1980,0.05
+Nepal,1984,0.055
+Nepal,1988,0.057
+Nepal,1992,0.056
+Nepal,1996,0.061
+Nepal,2000,0.063
+Nepal,2004,0.063
+Nepal,2008,0.062
+Nepal,2012,0.067
+Nepal,2016,0.07
+Nepal,2020,0.087
+Nepal,2024,0.086
+Netherlands,1980,1.23
+Netherlands,1984,1.156
+Netherlands,1988,1.122
+Netherlands,1992,1.035
+Netherlands,1996,1.016
+Netherlands,2000,1.047
+Netherlands,2004,0.951
+Netherlands,2008,0.891
+Netherlands,2012,0.785
+Netherlands,2016,0.764
+Netherlands,2020,0.75
+Netherlands,2024,0.716
+New Zealand,1980,0.213
+New Zealand,1984,0.219
+New Zealand,1988,0.2
+New Zealand,1992,0.163
+New Zealand,1996,0.175
+New Zealand,2000,0.169
+New Zealand,2004,0.172
+New Zealand,2008,0.158
+New Zealand,2012,0.143
+New Zealand,2016,0.159
+New Zealand,2020,0.164
+New Zealand,2024,0.154
+Nicaragua,1980,0.046
+Nicaragua,1984,0.045
+Nicaragua,1988,0.032
+Nicaragua,1992,0.026
+Nicaragua,1996,0.027
+Nicaragua,2000,0.028
+Nicaragua,2004,0.027
+Nicaragua,2008,0.027
+Nicaragua,2012,0.026
+Nicaragua,2016,0.031
+Nicaragua,2020,0.028
+Nicaragua,2024,0.03
+Niger,1980,0.03
+Niger,1984,0.023
+Niger,1988,0.024
+Niger,1992,0.02
+Niger,1996,0.018
+Niger,2000,0.017
+Niger,2004,0.017
+Niger,2008,0.018
+Niger,2012,0.02
+Niger,2016,0.02
+Niger,2020,0.023
+Niger,2024,0.025
+Nigeria,1980,0.0
+Nigeria,1984,0.0
+Nigeria,1988,0.0
+Nigeria,1992,0.559
+Nigeria,1996,0.534
+Nigeria,2000,0.515
+Nigeria,2004,0.66
+Nigeria,2008,0.727
+Nigeria,2012,0.828
+Nigeria,2016,0.836
+Nigeria,2020,0.799
+Nigeria,2024,0.778
+North Macedonia,1980,0.0
+North Macedonia,1984,0.0
+North Macedonia,1988,0.0
+North Macedonia,1992,0.035
+North Macedonia,1996,0.028
+North Macedonia,2000,0.027
+North Macedonia,2004,0.025
+North Macedonia,2008,0.026
+North Macedonia,2012,0.024
+North Macedonia,2016,0.027
+North Macedonia,2020,0.026
+North Macedonia,2024,0.025
+Norway,1980,0.453
+Norway,1984,0.464
+Norway,1988,0.445
+Norway,1992,0.399
+Norway,1996,0.417
+Norway,2000,0.41
+Norway,2004,0.386
+Norway,2008,0.352
+Norway,2012,0.327
+Norway,2016,0.266
+Norway,2020,0.266
+Norway,2024,0.248
+Oman,1980,0.101
+Oman,1984,0.158
+Oman,1988,0.161
+Oman,1992,0.168
+Oman,1996,0.177
+Oman,2000,0.177
+Oman,2004,0.159
+Oman,2008,0.164
+Oman,2012,0.176
+Oman,2016,0.128
+Oman,2020,0.119
+Oman,2024,0.112
+Pakistan,1980,0.566
+Pakistan,1984,0.655
+Pakistan,1988,0.734
+Pakistan,1992,0.741
+Pakistan,1996,0.782
+Pakistan,2000,0.769
+Pakistan,2004,0.802
+Pakistan,2008,0.842
+Pakistan,2012,0.831
+Pakistan,2016,0.868
+Pakistan,2020,0.905
+Pakistan,2024,0.885
+Panama,1980,0.054
+Panama,1984,0.056
+Panama,1988,0.044
+Panama,1992,0.047
+Panama,1996,0.049
+Panama,2000,0.052
+Panama,2004,0.052
+Panama,2008,0.062
+Panama,2012,0.072
+Panama,2016,0.1
+Panama,2020,0.09
+Panama,2024,0.109
+Papua New Guinea,1980,0.024
+Papua New Guinea,1984,0.023
+Papua New Guinea,1988,0.022
+Papua New Guinea,1992,0.022
+Papua New Guinea,1996,0.025
+Papua New Guinea,2000,0.021
+Papua New Guinea,2004,0.02
+Papua New Guinea,2008,0.019
+Papua New Guinea,2012,0.021
+Papua New Guinea,2016,0.026
+Papua New Guinea,2020,0.025
+Papua New Guinea,2024,0.024
+Paraguay,1980,0.083
+Paraguay,1984,0.081
+Paraguay,1988,0.08
+Paraguay,1992,0.076
+Paraguay,1996,0.08
+Paraguay,2000,0.07
+Paraguay,2004,0.065
+Paraguay,2008,0.065
+Paraguay,2012,0.064
+Paraguay,2016,0.07
+Paraguay,2020,0.07
+Paraguay,2024,0.067
+Peru,1980,0.402
+Peru,1984,0.363
+Peru,1988,0.349
+Peru,1992,0.237
+Peru,1996,0.274
+Peru,2000,0.261
+Peru,2004,0.263
+Peru,2008,0.298
+Peru,2012,0.315
+Peru,2016,0.325
+Peru,2020,0.3
+Peru,2024,0.305
+Philippines,1980,0.687
+Philippines,1984,0.634
+Philippines,1988,0.582
+Philippines,1992,0.519
+Philippines,1996,0.542
+Philippines,2000,0.528
+Philippines,2004,0.547
+Philippines,2008,0.563
+Philippines,2012,0.607
+Philippines,2016,0.686
+Philippines,2020,0.688
+Philippines,2024,0.75
+Poland,1980,1.276
+Poland,1984,1.049
+Poland,1988,1.025
+Poland,1992,0.763
+Poland,1996,0.841
+Poland,2000,0.888
+Poland,2004,0.859
+Poland,2008,0.881
+Poland,2012,0.89
+Poland,2016,0.918
+Poland,2020,0.976
+Poland,2024,0.97
+Portugal,1980,0.441
+Portugal,1984,0.425
+Portugal,1988,0.436
+Portugal,1992,0.435
+Portugal,1996,0.411
+Portugal,2000,0.418
+Portugal,2004,0.376
+Portugal,2008,0.331
+Portugal,2012,0.275
+Portugal,2016,0.28
+Portugal,2020,0.26
+Portugal,2024,0.262
+Puerto Rico,1980,0.165
+Puerto Rico,1984,0.159
+Puerto Rico,1988,0.169
+Puerto Rico,1992,0.161
+Puerto Rico,1996,0.166
+Puerto Rico,2000,0.172
+Puerto Rico,2004,0.174
+Puerto Rico,2008,0.137
+Puerto Rico,2012,0.117
+Puerto Rico,2016,0.1
+Puerto Rico,2020,0.084
+Puerto Rico,2024,0.074
+Qatar,1980,0.155
+Qatar,1984,0.137
+Qatar,1988,0.112
+Qatar,1992,0.09
+Qatar,1996,0.084
+Qatar,2000,0.113
+Qatar,2004,0.135
+Qatar,2008,0.217
+Qatar,2012,0.308
+Qatar,2016,0.189
+Qatar,2020,0.194
+Qatar,2024,0.182
+Republic of Congo,1980,0.023
+Republic of Congo,1984,0.023
+Republic of Congo,1988,0.026
+Republic of Congo,1992,0.028
+Republic of Congo,1996,0.026
+Republic of Congo,2000,0.026
+Republic of Congo,2004,0.022
+Republic of Congo,2008,0.022
+Republic of Congo,2012,0.028
+Republic of Congo,2016,0.018
+Republic of Congo,2020,0.017
+Republic of Congo,2024,0.016
+Romania,1980,0.849
+Romania,1984,0.905
+Romania,1988,0.799
+Romania,1992,0.46
+Romania,1996,0.478
+Romania,2000,0.375
+Romania,2004,0.409
+Romania,2008,0.453
+Romania,2012,0.394
+Romania,2016,0.404
+Romania,2020,0.444
+Romania,2024,0.441
+Russia,1980,0.0
+Russia,1984,0.0
+Russia,1988,0.0
+Russia,1992,4.848
+Russia,1996,3.161
+Russia,2000,3.062
+Russia,2004,3.36
+Russia,2008,3.7
+Russia,2012,3.448
+Russia,2016,3.038
+Russia,2020,3.08
+Russia,2024,2.948
+Rwanda,1980,0.016
+Rwanda,1984,0.017
+Rwanda,1988,0.016
+Rwanda,1992,0.013
+Rwanda,1996,0.008
+Rwanda,2000,0.01
+Rwanda,2004,0.012
+Rwanda,2008,0.014
+Rwanda,2012,0.016
+Rwanda,2016,0.019
+Rwanda,2020,0.021
+Rwanda,2024,0.025
+Samoa,1980,0.001
+Samoa,1984,0.001
+Samoa,1988,0.001
+Samoa,1992,0.001
+Samoa,1996,0.001
+Samoa,2000,0.001
+Samoa,2004,0.001
+Samoa,2008,0.001
+Samoa,2012,0.001
+Samoa,2016,0.001
+Samoa,2020,0.001
+Samoa,2024,0.001
+San Marino,1980,0.0
+San Marino,1984,0.0
+San Marino,1988,0.0
+San Marino,1992,0.0
+San Marino,1996,0.0
+San Marino,2000,0.003
+San Marino,2004,0.003
+San Marino,2008,0.003
+San Marino,2012,0.002
+San Marino,2016,0.002
+San Marino,2020,0.002
+San Marino,2024,0.002
+Saudi Arabia,1980,3.114
+Saudi Arabia,1984,1.837
+Saudi Arabia,1988,1.762
+Saudi Arabia,1992,1.967
+Saudi Arabia,1996,1.776
+Saudi Arabia,2000,1.619
+Saudi Arabia,2004,1.618
+Saudi Arabia,2008,1.591
+Saudi Arabia,2012,1.67
+Saudi Arabia,2016,1.308
+Saudi Arabia,2020,1.29
+Saudi Arabia,2024,1.268
+Senegal,1980,0.045
+Senegal,1984,0.046
+Senegal,1988,0.044
+Senegal,1992,0.039
+Senegal,1996,0.037
+Senegal,2000,0.039
+Senegal,2004,0.039
+Senegal,2008,0.037
+Senegal,2012,0.036
+Senegal,2016,0.04
+Senegal,2020,0.044
+Senegal,2024,0.047
+Serbia,1980,0.0
+Serbia,1984,0.0
+Serbia,1988,0.0
+Serbia,1992,0.0
+Serbia,1996,0.0
+Serbia,2000,0.096
+Serbia,2004,0.108
+Serbia,2008,0.113
+Serbia,2012,0.099
+Serbia,2016,0.096
+Serbia,2020,0.099
+Serbia,2024,0.1
+Seychelles,1980,0.002
+Seychelles,1984,0.002
+Seychelles,1988,0.002
+Seychelles,1992,0.002
+Seychelles,1996,0.002
+Seychelles,2000,0.002
+Seychelles,2004,0.002
+Seychelles,2008,0.002
+Seychelles,2012,0.002
+Seychelles,2016,0.002
+Seychelles,2020,0.002
+Seychelles,2024,0.002
+Sierra Leone,1980,0.021
+Sierra Leone,1984,0.02
+Sierra Leone,1988,0.016
+Sierra Leone,1992,0.012
+Sierra Leone,1996,0.007
+Sierra Leone,2000,0.005
+Sierra Leone,2004,0.007
+Sierra Leone,2008,0.008
+Sierra Leone,2012,0.009
+Sierra Leone,2016,0.011
+Sierra Leone,2020,0.01
+Sierra Leone,2024,0.01
+Singapore,1980,0.171
+Singapore,1984,0.218
+Singapore,1988,0.233
+Singapore,1992,0.261
+Singapore,1996,0.33
+Singapore,2000,0.347
+Singapore,2004,0.356
+Singapore,2008,0.387
+Singapore,2012,0.432
+Singapore,2016,0.431
+Singapore,2020,0.426
+Singapore,2024,0.428
+Slovak Republic,1980,0.0
+Slovak Republic,1984,0.0
+Slovak Republic,1988,0.0
+Slovak Republic,1992,0.0
+Slovak Republic,1996,0.139
+Slovak Republic,2000,0.132
+Slovak Republic,2004,0.137
+Slovak Republic,2008,0.155
+Slovak Republic,2012,0.145
+Slovak Republic,2016,0.139
+Slovak Republic,2020,0.137
+Slovak Republic,2024,0.129
+Slovenia,1980,0.0
+Slovenia,1984,0.0
+Slovenia,1988,0.0
+Slovenia,1992,0.067
+Slovenia,1996,0.069
+Slovenia,2000,0.07
+Slovenia,2004,0.07
+Slovenia,2008,0.071
+Slovenia,2012,0.059
+Slovenia,2016,0.06
+Slovenia,2020,0.062
+Slovenia,2024,0.061
+Solomon Islands,1980,0.002
+Solomon Islands,1984,0.002
+Solomon Islands,1988,0.001
+Solomon Islands,1992,0.001
+Solomon Islands,1996,0.002
+Solomon Islands,2000,0.001
+Solomon Islands,2004,0.001
+Solomon Islands,2008,0.001
+Solomon Islands,2012,0.001
+Solomon Islands,2016,0.001
+Solomon Islands,2020,0.001
+Solomon Islands,2024,0.001
+Somalia,1980,0.0
+Somalia,1984,0.0
+Somalia,1988,0.0
+Somalia,1992,0.0
+Somalia,1996,0.0
+Somalia,2000,0.0
+Somalia,2004,0.0
+Somalia,2008,0.0
+Somalia,2012,0.014
+Somalia,2016,0.018
+Somalia,2020,0.019
+Somalia,2024,0.018
+South Africa,1980,1.108
+South Africa,1984,1.094
+South Africa,1988,0.989
+South Africa,1992,0.797
+South Africa,1996,0.792
+South Africa,2000,0.752
+South Africa,2004,0.747
+South Africa,2008,0.756
+South Africa,2012,0.692
+South Africa,2016,0.663
+South Africa,2020,0.597
+South Africa,2024,0.553
+South Sudan,1980,0.0
+South Sudan,1984,0.0
+South Sudan,1988,0.0
+South Sudan,1992,0.0
+South Sudan,1996,0.0
+South Sudan,2000,0.0
+South Sudan,2004,0.0
+South Sudan,2008,0.0
+South Sudan,2012,0.014
+South Sudan,2016,0.009
+South Sudan,2020,0.004
+South Sudan,2024,0.004
+Spain,1980,2.195
+Spain,1984,2.087
+Spain,1988,2.116
+Spain,1992,1.943
+Spain,1996,1.852
+Spain,2000,1.907
+Spain,2004,1.874
+Spain,2008,1.77
+Spain,2012,1.47
+Spain,2016,1.488
+Spain,2020,1.348
+Spain,2024,1.355
+Sri Lanka,1980,0.126
+Sri Lanka,1984,0.141
+Sri Lanka,1988,0.138
+Sri Lanka,1992,0.131
+Sri Lanka,1996,0.16
+Sri Lanka,2000,0.167
+Sri Lanka,2004,0.164
+Sri Lanka,2008,0.178
+Sri Lanka,2012,0.215
+Sri Lanka,2016,0.238
+Sri Lanka,2020,0.224
+Sri Lanka,2024,0.0
+St. Kitts and Nevis,1980,0.001
+St. Kitts and Nevis,1984,0.001
+St. Kitts and Nevis,1988,0.001
+St. Kitts and Nevis,1992,0.001
+St. Kitts and Nevis,1996,0.001
+St. Kitts and Nevis,2000,0.001
+St. Kitts and Nevis,2004,0.001
+St. Kitts and Nevis,2008,0.001
+St. Kitts and Nevis,2012,0.001
+St. Kitts and Nevis,2016,0.001
+St. Kitts and Nevis,2020,0.001
+St. Kitts and Nevis,2024,0.001
+St. Lucia,1980,0.002
+St. Lucia,1984,0.002
+St. Lucia,1988,0.003
+St. Lucia,1992,0.003
+St. Lucia,1996,0.003
+St. Lucia,2000,0.003
+St. Lucia,2004,0.003
+St. Lucia,2008,0.003
+St. Lucia,2012,0.002
+St. Lucia,2016,0.002
+St. Lucia,2020,0.002
+St. Lucia,2024,0.002
+St. Vincent and the Grenadines,1980,0.001
+St. Vincent and the Grenadines,1984,0.002
+St. Vincent and the Grenadines,1988,0.002
+St. Vincent and the Grenadines,1992,0.002
+St. Vincent and the Grenadines,1996,0.002
+St. Vincent and the Grenadines,2000,0.001
+St. Vincent and the Grenadines,2004,0.002
+St. Vincent and the Grenadines,2008,0.001
+St. Vincent and the Grenadines,2012,0.001
+St. Vincent and the Grenadines,2016,0.001
+St. Vincent and the Grenadines,2020,0.001
+St. Vincent and the Grenadines,2024,0.001
+Sudan,1980,0.15
+Sudan,1984,0.141
+Sudan,1988,0.147
+Sudan,1992,0.139
+Sudan,1996,0.15
+Sudan,2000,0.168
+Sudan,2004,0.191
+Sudan,2008,0.197
+Sudan,2012,0.136
+Sudan,2016,0.189
+Sudan,2020,0.139
+Sudan,2024,0.091
+Suriname,1980,0.016
+Suriname,1984,0.013
+Suriname,1988,0.011
+Suriname,1992,0.008
+Suriname,1996,0.008
+Suriname,2000,0.008
+Suriname,2004,0.008
+Suriname,2008,0.008
+Suriname,2012,0.009
+Suriname,2016,0.007
+Suriname,2020,0.007
+Suriname,2024,0.007
+Sweden,1980,0.653
+Sweden,1984,0.673
+Sweden,1988,0.645
+Sweden,1992,0.533
+Sweden,1996,0.508
+Sweden,2000,0.514
+Sweden,2004,0.493
+Sweden,2008,0.458
+Sweden,2012,0.429
+Sweden,2016,0.43
+Sweden,2020,0.425
+Sweden,2024,0.397
+Switzerland,1980,0.851
+Switzerland,1984,0.807
+Switzerland,1988,0.768
+Switzerland,1992,0.671
+Switzerland,1996,0.606
+Switzerland,2000,0.582
+Switzerland,2004,0.525
+Switzerland,2008,0.503
+Switzerland,2012,0.471
+Switzerland,2016,0.484
+Switzerland,2020,0.465
+Switzerland,2024,0.44
+Syria,1980,0.141
+Syria,1984,0.136
+Syria,1988,0.136
+Syria,1992,0.145
+Syria,1996,0.157
+Syria,2000,0.14
+Syria,2004,0.14
+Syria,2008,0.144
+Syria,2012,0.0
+Syria,2016,0.0
+Syria,2020,0.0
+Syria,2024,0.0
+São Tomé and Príncipe,1980,0.001
+São Tomé and Príncipe,1984,0.001
+São Tomé and Príncipe,1988,0.001
+São Tomé and Príncipe,1992,0.001
+São Tomé and Príncipe,1996,0.001
+São Tomé and Príncipe,2000,0.001
+São Tomé and Príncipe,2004,0.001
+São Tomé and Príncipe,2008,0.001
+São Tomé and Príncipe,2012,0.001
+São Tomé and Príncipe,2016,0.001
+São Tomé and Príncipe,2020,0.001
+São Tomé and Príncipe,2024,0.001
+Taiwan Province of China,1980,0.459
+Taiwan Province of China,1984,0.564
+Taiwan Province of China,1988,0.691
+Taiwan Province of China,1992,0.758
+Taiwan Province of China,1996,0.87
+Taiwan Province of China,2000,0.941
+Taiwan Province of China,2004,0.946
+Taiwan Province of China,2008,0.951
+Taiwan Province of China,2012,0.964
+Taiwan Province of China,2016,0.955
+Taiwan Province of China,2020,0.987
+Taiwan Province of China,2024,0.965
+Tajikistan,1980,0.0
+Tajikistan,1984,0.0
+Tajikistan,1988,0.0
+Tajikistan,1992,0.024
+Tajikistan,1996,0.013
+Tajikistan,2000,0.013
+Tajikistan,2004,0.017
+Tajikistan,2008,0.018
+Tajikistan,2012,0.021
+Tajikistan,2016,0.023
+Tajikistan,2020,0.027
+Tajikistan,2024,0.032
+Tanzania,1980,0.078
+Tanzania,1984,0.076
+Tanzania,1988,0.081
+Tanzania,1992,0.075
+Tanzania,1996,0.074
+Tanzania,2000,0.075
+Tanzania,2004,0.085
+Tanzania,2008,0.092
+Tanzania,2012,0.095
+Tanzania,2016,0.11
+Tanzania,2020,0.127
+Tanzania,2024,0.132
+Thailand,1980,0.557
+Thailand,1984,0.633
+Thailand,1988,0.746
+Thailand,1992,0.901
+Thailand,1996,1.069
+Thailand,2000,0.904
+Thailand,2004,0.98
+Thailand,2008,0.963
+Thailand,2012,1.0
+Thailand,2016,0.984
+Thailand,2020,0.951
+Thailand,2024,0.886
+The Bahamas,1980,0.02
+The Bahamas,1984,0.02
+The Bahamas,1988,0.02
+The Bahamas,1992,0.015
+The Bahamas,1996,0.015
+The Bahamas,2000,0.016
+The Bahamas,2004,0.015
+The Bahamas,2008,0.013
+The Bahamas,2012,0.012
+The Bahamas,2016,0.011
+The Bahamas,2020,0.008
+The Bahamas,2024,0.01
+The Gambia,1980,0.005
+The Gambia,1984,0.006
+The Gambia,1988,0.005
+The Gambia,1992,0.005
+The Gambia,1996,0.005
+The Gambia,2000,0.005
+The Gambia,2004,0.005
+The Gambia,2008,0.004
+The Gambia,2012,0.004
+The Gambia,2016,0.004
+The Gambia,2020,0.004
+The Gambia,2024,0.004
+Timor-Leste,1980,0.0
+Timor-Leste,1984,0.0
+Timor-Leste,1988,0.0
+Timor-Leste,1992,0.0
+Timor-Leste,1996,0.0
+Timor-Leste,2000,0.002
+Timor-Leste,2004,0.002
+Timor-Leste,2008,0.002
+Timor-Leste,2012,0.003
+Timor-Leste,2016,0.003
+Timor-Leste,2020,0.005
+Timor-Leste,2024,0.003
+Togo,1980,0.021
+Togo,1984,0.018
+Togo,1988,0.017
+Togo,1992,0.015
+Togo,1996,0.015
+Togo,2000,0.013
+Togo,2004,0.012
+Togo,2008,0.011
+Togo,2012,0.012
+Togo,2016,0.013
+Togo,2020,0.014
+Togo,2024,0.015
+Trinidad and Tobago,1980,0.056
+Trinidad and Tobago,1984,0.047
+Trinidad and Tobago,1988,0.035
+Trinidad and Tobago,1992,0.032
+Trinidad and Tobago,1996,0.033
+Trinidad and Tobago,2000,0.038
+Trinidad and Tobago,2004,0.044
+Trinidad and Tobago,2008,0.048
+Trinidad and Tobago,2012,0.043
+Trinidad and Tobago,2016,0.033
+Trinidad and Tobago,2020,0.028
+Trinidad and Tobago,2024,0.025
+Tunisia,1980,0.108
+Tunisia,1984,0.114
+Tunisia,1988,0.109
+Tunisia,1992,0.11
+Tunisia,1996,0.113
+Tunisia,2000,0.12
+Tunisia,2004,0.122
+Tunisia,2008,0.124
+Tunisia,2012,0.115
+Tunisia,2016,0.107
+Tunisia,2020,0.097
+Tunisia,2024,0.091
+Turkmenistan,1980,0.0
+Turkmenistan,1984,0.0
+Turkmenistan,1988,0.0
+Turkmenistan,1992,0.052
+Turkmenistan,1996,0.03
+Turkmenistan,2000,0.033
+Turkmenistan,2004,0.054
+Turkmenistan,2008,0.073
+Turkmenistan,2012,0.09
+Turkmenistan,2016,0.08
+Turkmenistan,2020,0.075
+Turkmenistan,2024,0.07
+Türkiye,1980,1.187
+Türkiye,1984,1.308
+Türkiye,1988,1.409
+Türkiye,1992,1.345
+Türkiye,1996,1.394
+Türkiye,2000,1.379
+Türkiye,2004,1.392
+Türkiye,2008,1.439
+Türkiye,2012,1.536
+Türkiye,2016,1.817
+Türkiye,2020,1.904
+Türkiye,2024,2.064
+Uganda,1980,0.044
+Uganda,1984,0.046
+Uganda,1988,0.044
+Uganda,1992,0.043
+Uganda,1996,0.051
+Uganda,2000,0.055
+Uganda,2004,0.063
+Uganda,2008,0.074
+Uganda,2012,0.077
+Uganda,2016,0.073
+Uganda,2020,0.08
+Uganda,2024,0.084
+Ukraine,1980,0.0
+Ukraine,1984,0.0
+Ukraine,1988,0.0
+Ukraine,1992,0.991
+Ukraine,1996,0.458
+Ukraine,2000,0.397
+Ukraine,2004,0.483
+Ukraine,2008,0.496
+Ukraine,2012,0.422
+Ukraine,2016,0.408
+Ukraine,2020,0.409
+Ukraine,2024,0.278
+United Arab Emirates,1980,0.666
+United Arab Emirates,1984,0.603
+United Arab Emirates,1988,0.418
+United Arab Emirates,1992,0.514
+United Arab Emirates,1996,0.55
+United Arab Emirates,2000,0.606
+United Arab Emirates,2004,0.65
+United Arab Emirates,2008,0.668
+United Arab Emirates,2012,0.643
+United Arab Emirates,2016,0.532
+United Arab Emirates,2020,0.496
+United Arab Emirates,2024,0.511
+United Kingdom,1980,3.803
+United Kingdom,1984,3.741
+United Kingdom,1988,3.836
+United Kingdom,1992,3.181
+United Kingdom,1996,3.126
+United Kingdom,2000,3.144
+United Kingdom,2004,3.006
+United Kingdom,2008,2.712
+United Kingdom,2012,2.42
+United Kingdom,2016,2.482
+United Kingdom,2020,2.224
+United Kingdom,2024,2.17
+United States,1980,21.305
+United States,1984,21.946
+United States,1988,21.926
+United States,1992,19.512
+United States,1996,19.663
+United States,2000,20.18
+United States,2004,19.17
+United States,2008,17.438
+United States,2012,16.105
+United States,2016,16.142
+United States,2020,15.957
+United States,2024,15.501
+Uruguay,1980,0.111
+Uruguay,1984,0.086
+Uruguay,1988,0.085
+Uruguay,1992,0.079
+Uruguay,1996,0.08
+Uruguay,2000,0.073
+Uruguay,2004,0.059
+Uruguay,2008,0.064
+Uruguay,2012,0.066
+Uruguay,2016,0.066
+Uruguay,2020,0.059
+Uruguay,2024,0.058
+Uzbekistan,1980,0.0
+Uzbekistan,1984,0.0
+Uzbekistan,1988,0.0
+Uzbekistan,1992,0.153
+Uzbekistan,1996,0.126
+Uzbekistan,2000,0.129
+Uzbekistan,2004,0.136
+Uzbekistan,2008,0.156
+Uzbekistan,2012,0.179
+Uzbekistan,2016,0.186
+Uzbekistan,2020,0.2
+Uzbekistan,2024,0.216
+Vanuatu,1980,0.001
+Vanuatu,1984,0.001
+Vanuatu,1988,0.001
+Vanuatu,1992,0.001
+Vanuatu,1996,0.001
+Vanuatu,2000,0.001
+Vanuatu,2004,0.001
+Vanuatu,2008,0.001
+Vanuatu,2012,0.001
+Vanuatu,2016,0.001
+Vanuatu,2020,0.001
+Vanuatu,2024,0.001
+Venezuela,1980,0.886
+Venezuela,1984,0.777
+Venezuela,1988,0.798
+Venezuela,1992,0.693
+Venezuela,1996,0.623
+Venezuela,2000,0.559
+Venezuela,2004,0.498
+Venezuela,2008,0.579
+Venezuela,2012,0.54
+Venezuela,2016,0.374
+Venezuela,2020,0.12
+Venezuela,2024,0.121
+Vietnam,1980,0.217
+Vietnam,1984,0.263
+Vietnam,1988,0.267
+Vietnam,1992,0.283
+Vietnam,1996,0.353
+Vietnam,2000,0.389
+Vietnam,2004,0.447
+Vietnam,2008,0.487
+Vietnam,2012,0.563
+Vietnam,2016,0.662
+Vietnam,2020,0.797
+Vietnam,2024,0.84
+West Bank and Gaza,1980,0.0
+West Bank and Gaza,1984,0.0
+West Bank and Gaza,1988,0.0
+West Bank and Gaza,1992,0.0
+West Bank and Gaza,1996,0.014
+West Bank and Gaza,2000,0.015
+West Bank and Gaza,2004,0.015
+West Bank and Gaza,2008,0.015
+West Bank and Gaza,2012,0.02
+West Bank and Gaza,2016,0.024
+West Bank and Gaza,2020,0.02
+West Bank and Gaza,2024,0.0
+Yemen,1980,0.0
+Yemen,1984,0.0
+Yemen,1988,0.0
+Yemen,1992,0.088
+Yemen,1996,0.096
+Yemen,2000,0.101
+Yemen,2004,0.102
+Yemen,2008,0.1
+Yemen,2012,0.085
+Yemen,2016,0.054
+Yemen,2020,0.045
+Yemen,2024,0.037
+Zambia,1980,0.058
+Zambia,1984,0.053
+Zambia,1988,0.052
+Zambia,1992,0.041
+Zambia,1996,0.035
+Zambia,2000,0.034
+Zambia,2004,0.037
+Zambia,2008,0.042
+Zambia,2012,0.049
+Zambia,2016,0.048
+Zambia,2020,0.048
+Zambia,2024,0.05
+Zimbabwe,1980,0.0
+Zimbabwe,1984,0.0
+Zimbabwe,1988,0.0
+Zimbabwe,1992,0.0
+Zimbabwe,1996,0.0
+Zimbabwe,2000,0.055
+Zimbabwe,2004,0.035
+Zimbabwe,2008,0.021
+Zimbabwe,2012,0.031
+Zimbabwe,2016,0.033
+Zimbabwe,2020,0.025
+Zimbabwe,2024,0.026

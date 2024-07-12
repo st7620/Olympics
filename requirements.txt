@@ -1,0 +1,14 @@
+streamlit>=1.26.0
+numpy
+pandas
+matplotlib
+sqlalchemy
+seaborn
+openpyxl
+xlrd
+ipykernel
+altair
+plotly-express
+scikit-learn
+bs4
+nbformat
