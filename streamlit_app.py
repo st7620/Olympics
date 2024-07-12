@@ -122,7 +122,7 @@ with col[2]:
         st.write('''
             - The first graph shows the total number of medals won by the selected country over time. You can select a country from the sidebar to see the data for that country. 
             - The plots below show the ACF and PACF, which show the autocorrelation and partial autocorrelation of the time series data. The plots show that there is no significant autocorrelation in the data.
-            - The second graph shows the predicted total number of medals for each country. The predictions are based on a K-Nearest Neighbors Regression model that was trained on the historical data.
+            - The second graph shows the predicted total number of medals for each country. The predictions are based on a K-Nearest Neighbors Regression model that was trained on the historical data. I hypothesize that the countries that have won the most medals in the past will continue to win the most medals in the future, which is supported by my predictions.
             - The third graph shows the performance of the different models that were used to make the predictions. The models were evaluated based on their RMSE and R2 scores. We want to minimize the RMSE and maximize the R2 score.
             ''')
 
