@@ -15,9 +15,9 @@ st.set_page_config(
     )
 
 ## Load data
-df_final = pd.read_csv('Datasets\\final.csv')
-df_results = pd.read_csv('Datasets\\results.csv')
-df_predictions = pd.read_csv('Datasets\\predictions.csv')
+df_final = pd.read_csv('Datasets/final.csv')
+df_results = pd.read_csv('Datasets/results.csv')
+df_predictions = pd.read_csv('Datasets/predictions.csv')
 
 ## Sidebar
 with st.sidebar:
