@@ -86,8 +86,8 @@ def acf_pacf_plot(input_df, input_country):
     reduced_df = reduced_df.set_index('Year')
 
     fig, ax = plt.subplots(2,1, figsize=(12,8))
-    plot_acf(reduced_df)
-    plot_pacf(reduced_df)
+    plot_acf(reduced_df, ax=ax[0])
+    plot_pacf(reduced_df, ax=ax[1])
     ax[0].set_title('Autocorrelation Plot')
     ax[1].set_title('Partial Autocorrelation Plot')
     plt.tight_layout()
